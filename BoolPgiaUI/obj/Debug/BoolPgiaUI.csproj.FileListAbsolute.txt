@@ -1,0 +1,14 @@
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\bin\Debug\BoolPgiaUI.exe
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\bin\Debug\BoolPgiaUI.pdb
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\bin\Debug\BullsEyeLogic.dll
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\bin\Debug\BullsEyeLogic.pdb
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.csprojResolveAssemblyReference.cache
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.BoardForm.resources
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.ColorPalette.resources
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.FirstMenu.resources
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.Properties.Resources.resources
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.LRowUserGusse.resources
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.csproj.GenerateResource.Cache
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.csproj.CoreCompileInputs.cache
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.exe
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BoolPgiaUI\obj\Debug\BoolPgiaUI.pdb

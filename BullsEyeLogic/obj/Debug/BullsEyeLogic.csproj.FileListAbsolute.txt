@@ -1,0 +1,6 @@
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\bin\Debug\BullsEyeLogic.dll
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\bin\Debug\BullsEyeLogic.pdb
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\obj\Debug\BullsEyeLogic.csprojResolveAssemblyReference.cache
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\obj\Debug\BullsEyeLogic.csproj.CoreCompileInputs.cache
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\obj\Debug\BullsEyeLogic.dll
+C:\Users\יעל קרן\Desktop\לימודים\C#\Ex_5\C19 Ex05 OfirShemesh 313196750 YaelKeren 314962663\BullsEyeLogic\obj\Debug\BullsEyeLogic.pdb
